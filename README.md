@@ -58,8 +58,7 @@ Este es un proyecto de ejemplo y no aceptamos contribuciones externas. Si tienes
 
 ## Créditos
 
-Este proyecto se basa en el tutorial "Creando una API REST con Rails" proporcionado por [Nombre del Proveedor del Tutorial].
-
+Este proyecto se basa en el tutorial "Creando una API REST con Rails" proporcionado por Des.Latam.
 ## Licencia
 
 Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
